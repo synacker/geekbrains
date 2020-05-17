@@ -9,7 +9,7 @@ words_count = []
 with open(filename, 'r') as f:
     for line in f.readlines():
         size += 1
-        count = len(re.findall('\w+', line))
+        count = len(re.findall(r"\w+", line))
         words_count.append(count)
 
 print(f'Lines count: {size}.')
