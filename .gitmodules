@@ -1,0 +1,3 @@
+[submodule "python_fundamentals/lesson5/Python_Education_Base"]
+	path = python_fundamentals/lesson5/Python_Education_Base
+	url = https://github.com/synacker/Python_Education_Base
