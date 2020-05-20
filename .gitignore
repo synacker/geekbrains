@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+python_fundamentals/lesson5/*.txt
+python_fundamentals/lesson5/*.json
